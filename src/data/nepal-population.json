@@ -1,0 +1,44 @@
+[
+  {
+    "province": "Koshi Province",
+    "population": 4967384,
+    "percentage": 17.03,
+    "literacy": 75.3
+  },
+  {
+    "province": "Madhesh Province",
+    "population": 6114600,
+    "percentage": 20.97,
+    "literacy": 63.5
+  },
+  {
+    "province": "Bagmati Province",
+    "population": 6116866,
+    "percentage": 20.97,
+    "literacy": 82.1
+  },
+  {
+    "province": "Gandaki Province",
+    "population": 2466427,
+    "percentage": 8.46,
+    "literacy": 81.7
+  },
+  {
+    "province": "Lumbini Province",
+    "population": 5122078,
+    "percentage": 17.56,
+    "literacy": 76.8
+  },
+  {
+    "province": "Karnali Province",
+    "population": 1688412,
+    "percentage": 5.79,
+    "literacy": 69.4
+  },
+  {
+    "province": "Sudurpashchim Province",
+    "population": 2694783,
+    "percentage": 9.24,
+    "literacy": 72.9
+  }
+]
