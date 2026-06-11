@@ -89,7 +89,9 @@ function Earthquakes() {
           <EarthquakeMap earthquakes={filteredQuakes} />
         </div>
       </div>
-      <QuakeChart earthquakes={quakes} />
+      <div className="bg-stone-900 border border-stone-800 rounded-xl p-6 h-96 w-full">
+        <QuakeChart earthquakes={quakes} />
+      </div>
     </div>
   )
 }

@@ -1,7 +1,7 @@
 import { useMemo } from 'react'
 import { usePopulation } from '../hooks/usePopulation'
 import StatCard from '../shared/StatCard'
-import ProvinceChart from '../components/ProvinceChart';
+import ProvinceChart from '../components/ProvinceChart'
 
 function Population() {
   const { data, totalNationalPopulation, averageLiteracyRate, isLoading } =
@@ -90,7 +90,9 @@ function Population() {
           ))}
         </div>
       </div>
-      <ProvinceChart />
+      <div className="flex-1 ">
+        <ProvinceChart />
+      </div>
     </div>
   )
 }

@@ -50,7 +50,7 @@ function QuakeChart({ earthquakes }) {
       </div>
 
       <div className="h-80 w-full min-h-80">
-        <ResponsiveContainer width="100%" height="100%" minWidth={0}>
+        <ResponsiveContainer width="100%" height={320}>
           <BarChart
             data={chartData}
             margin={{ top: 10, right: 10, left: -20, bottom: 0 }}
